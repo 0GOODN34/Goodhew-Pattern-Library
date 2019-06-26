@@ -1,27 +1,25 @@
 <template>
   <div id="app">
-    <HelloWorld msg="Welcome to Your Vue.js App"/>
+    <Page/>
   </div>
 </template>
 
 <script>
-import HelloWorld from './components/HelloWorld.vue'
+import Page from './components/page.vue'
 
 export default {
   name: 'app',
   components: {
-    HelloWorld
+    Page
   }
 }
 </script>
 
 <style>
+@media (min-width: 768px) {
 #app {
-  font-family: 'Avenir', Helvetica, Arial, sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
-  text-align: center;
-  margin-top: 60px;
+  padding-top: 75px;
+}
 }
 
 
