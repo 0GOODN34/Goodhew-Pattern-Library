@@ -112,7 +112,7 @@ being released for use, but the cycle does not end their it continues with that 
 
 SDLC Model
 
- ![](Images4ReadMe/Agile.png)
+ ![](Images4ReadMe/Agile.jpg)
 
 Agile which is a vast improvement on the waterfall model helps to focus on the users experience and also testing of the code and feedback and also prototypes, this model will work will with the creation of the pattern library as testing and feedback will be a big part of understand if the pattern library works well for users.
 
@@ -200,7 +200,7 @@ Document sketch
 
 Using wire frames an online website normally used to create websites, helped to give a layout of what the pattern library was going to look like, this pattern library will have it were the navbar will move along with the user to always keep the navbar in view so that they can jump around the pattern library when they need to.
 
- ![](Images4ReadMe/Wireframe.png)
+ ![](Images4ReadMe/WireFrame.jpg)
 
 
 The outline for the pattern library will be similar to the above sketch with subtle changes.
@@ -262,11 +262,14 @@ Implementation of the Grid system was eventually carried out with having to use 
 
 
 
-\&lt;div class=&quot;row&quot;\&gt;
+<div class="row">
 
-\&lt;div class=&quot;col-12&quot;\&gt;
+<div class="col-12">
 
-\&lt;div class=&quot;demo-col&quot;\&gt;.col-12\&lt;/div\&gt; \&lt;/div\&gt;\&lt;/div\&gt;
+<div class="demo-col">.col-12</div> 
+</div>
+</div>
+
 
 
 
