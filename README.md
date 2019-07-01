@@ -331,7 +331,7 @@ Text Button
 
 **Hover**
 
-![](Images4ReadMe/HoverButton.png)
+![](Images4ReadMe/HoverButton.PNG)
 
 All buttons have a hover effect which changes the opacity of the button to left the user know that they have hovered over the button.
 
