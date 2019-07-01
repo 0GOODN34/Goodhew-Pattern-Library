@@ -359,7 +359,7 @@ Button because lighter when hovered.
 
 **Hover**
 
-![](Images4ReadMe/NavigationHover.png)
+![](Images4ReadMe/Navigation.png)
 
 Cannot be seen but the cursor because the hand icon when hover over  a link.
 
@@ -396,11 +396,11 @@ Modal
 
 ![](Images4ReadMe/Modal.png)
 
-![](Images4ReadMe/ModalCode.png)
+![](Images4ReadMe/ModelCode.png)
  
 **Clicked**
 
-![](Images4ReadMe/ModalHover.png)
+![](Images4ReadMe/ModelHover.png)
 
 
 
