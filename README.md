@@ -416,7 +416,7 @@ Modal
 
 When the library was finished, I wanted to find out what people thought about the website with some general questions once they have used the website which gave me some insights into what people think about the pattern library I have created.
 
-![](Images4ReadMe/Testing.png)
+![](Images4ReadMe/Testing.jpg)
 
 
 
