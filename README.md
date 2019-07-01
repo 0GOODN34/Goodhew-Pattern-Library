@@ -345,7 +345,7 @@ All buttons have a hover effect which changes the opacity of the button to left 
 
 Hover
 
-![](Images4ReadMe/JumbotronHover.png)
+![](Images4ReadMe/JumbotronHover.PNG)
 
 Button because lighter when hovered.
 
