@@ -262,13 +262,7 @@ Implementation of the Grid system was eventually carried out with having to use 
 
 
 
-<div class="row">
-
-<div class="col-12">
-
-<div class="demo-col">.col-12</div> 
-</div>
-</div>
+![](Images4ReadMe/GridExplained.png)
 
 
 
